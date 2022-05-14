@@ -9,7 +9,7 @@ header {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    color: rgb(14, 8, 8);
+    color: #fff;
 }
 
 .dsmovie-nav-content h1 {
