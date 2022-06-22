@@ -27,3 +27,13 @@ header {
     margin: 0 0 0 10px;
     font-size: 12px;
 }
+
+.dsmovie-nav-content a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.dsmovie-nav-content a:hover  {
+    text-decoration: none;
+    color: #fff;
+}

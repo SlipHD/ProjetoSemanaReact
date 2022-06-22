@@ -56,6 +56,8 @@ function Listing() {
                 </div>
             </div>
 
+            <Pagination page={page} onChange = {handlePageChange} />
+
         </>
     )
 }

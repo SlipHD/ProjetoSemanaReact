@@ -7,11 +7,13 @@ function Navbar() {
         <header>
             <nav className="container">
                 <div className="dsmovie-nav-content">
-                    <h1>DSMovie</h1>
-                    <a href="https://github.com/SlipHD">
+                    <a href="https://sliphd-dsmovie.netlify.app/">
+                        <h1>DSMovie</h1>
+                    </a>
+                    <a href="https://github.com/soareslipe">
                         <div className="dsmovie-contact-container">
                             <GithubIcon />
-                            <p className='dsmovie-contact-link'>/SlipHD</p>
+                            <p className='dsmovie-contact-link'>/soareslipe</p>
                         </div>
                     </a>
                 </div>
